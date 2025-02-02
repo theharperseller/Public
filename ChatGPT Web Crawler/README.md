@@ -58,7 +58,7 @@ python web_crawler.py https://example.com --max_depth 3 --output results.json --
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/theharperseller/Public.git
    cd your-repo-name
    ```
 
